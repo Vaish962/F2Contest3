@@ -1,0 +1,57 @@
+.a{
+    width:1728px;
+    height: 75px;
+    background-color: black;
+    }
+    
+    .a1{
+      margin-top: 18px;
+      margin-left: 31px;
+      margin-right: 1352px;
+    }
+    
+    
+    .b{
+      width:278px;
+      height:38px;
+      background-color: black;
+      margin-top: 32px;
+      margin-left: 31px;
+    margin-right: 1422px;
+    }
+    
+    
+    .b1{
+      margin-top:9px;
+      margin-left: 33px;
+      margin-right:42px;
+      background-color: black;
+    }
+    
+    .c{
+      
+      margin-top: 35px;
+      margin-left: 31px;
+    }
+    
+    .mytable{
+
+        
+    }
+      
+      table, th, td {
+        border: 1px solid black;
+      }
+      
+      th, td {
+        padding: 8px;
+        text-align: left;
+      }
+      
+      th {
+        background-color: #ddd;
+      }
+      
+      .button{
+        background-color: black;
+      }
